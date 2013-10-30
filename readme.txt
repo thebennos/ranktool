@@ -6,7 +6,7 @@ Requires at least: 3.2.1
 Tested up to: 3.7
 Stable tag: 1.0
 
-Adds any number of extra fields in any number of additional boxes on the Write/Edit page in the Admin.
+Check any numbers of domain ranking from a page.
 
 == Description ==
 
