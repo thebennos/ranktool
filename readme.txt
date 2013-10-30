@@ -1,4 +1,4 @@
-=== More Fields ===
+=== Rank Tools ===
 Contributors: santosh1987
 Donate link: http://www.sandeveloper.com/ranktool/
 Tags: seo tools, ranking check, sandeveloper
